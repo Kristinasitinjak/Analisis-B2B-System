@@ -5,7 +5,7 @@ Tentang Proyek
 Proyek ini adalah kumpulan pengalaman saya dalam Project Management dan Sistem Analisis Proyek B2B. 
 Dokumentasi ini mencakup tahapan development, design, dan flow bisnis, yang saya kelola untuk memastikan proyek berjalan sesuai rencana dan mencapai tujuan bisnis.
 
- **Ruang Lingkup**
+ **Highlight**
  
 1.Project Management
 
